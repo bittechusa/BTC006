@@ -1,0 +1,24 @@
+#surefire
+#Wed Feb 01 19:37:02 EST 2017
+testClassesDirectory=/Users/bittech/Documents/workspace/Demo/target/test-classes
+useManifestOnlyJar=true
+classPathUrl.1=/Users/bittech/Documents/workspace/Demo/target/classes
+reportsDirectory=/Users/bittech/Documents/workspace/Demo/target/surefire-reports
+classPathUrl.0=/Users/bittech/Documents/workspace/Demo/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/Users/bittech/Documents/workspace/Demo/src/test/java
+surefireClassPathUrl.1=/Users/bittech/.m2/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+surefireClassPathUrl.0=/Users/bittech/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.1=com.ATest
+tc.0=ATest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=/Users/bittech/Documents/workspace/Demo/.surefire-AD67C0C4D59CCD4C49A03175DF536B2C538E069C
+includes0=**/Test*.java
+childDelegation=false
