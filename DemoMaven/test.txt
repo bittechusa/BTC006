@@ -1,0 +1,18 @@
+2017-02-12 14:26:56,976 INFO  [BaseTest] opened firefox browser 
+2017-02-12 14:27:04,721 INFO  [BaseTest] nevigate to url 
+2017-02-12 14:27:05,393 INFO  [Shared] element clicked 
+2017-02-12 14:27:06,056 INFO  [Shared] element clicked 
+2017-02-12 14:27:07,271 INFO  [Shared] element clicked 
+2017-02-12 14:27:07,463 INFO  [BaseTest] browser closed 
+2017-02-12 14:27:46,927 INFO  [BaseTest] opened firefox browser 
+2017-02-12 14:27:49,279 INFO  [BaseTest] nevigate to url 
+2017-02-12 14:27:49,894 INFO  [Shared] element clicked 
+2017-02-12 14:27:50,518 INFO  [Shared] element clicked 
+2017-02-12 14:27:57,423 INFO  [Shared] element clicked 
+2017-02-12 14:27:57,717 INFO  [BaseTest] browser closed 
+2017-02-17 01:26:50,405 INFO  [BaseTest] opened firefox browser 
+2017-02-17 01:26:55,440 INFO  [BaseTest] nevigate to url 
+2017-02-17 01:26:56,456 INFO  [Shared] element clicked 
+2017-02-17 01:26:57,194 INFO  [Shared] element clicked 
+2017-02-17 01:27:04,360 INFO  [Shared] element clicked 
+2017-02-17 01:27:05,646 INFO  [BaseTest] browser closed 
